@@ -13,4 +13,4 @@
 ![progress](week4/week_4.jpg)
 
 ## results
-[grades for course](results.jpg)
+![grades for course](results.jpg)
